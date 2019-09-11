@@ -1,8 +1,6 @@
 <template>
   <div id="app">
-    <a href="https://www.mytokenpocket.vip">
-      <img class="logo" src="./assets/logo.png" alt>
-    </a>
+    Scatter API Demo
     <HelloWorld/>
   </div>
 </template>
